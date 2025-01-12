@@ -14,3 +14,5 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@71d3030
 2025.01.13 05:41:52 INFO  no build target found for /home/shiroben/Desktop/4121/clp-lab05/src/amyc/parsing/Tokens.scala. Using presentation compiler with project's scala-library version: 3.3.4
 Jan 13, 2025 5:41:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 3
+Jan 13, 2025 5:42:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
