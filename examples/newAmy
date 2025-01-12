@@ -1,0 +1,8 @@
+object Hello {
+    8 match {
+        case x => 1
+        case y => 5
+        case _ => 10
+        case 100 => 15
+    }
+}
